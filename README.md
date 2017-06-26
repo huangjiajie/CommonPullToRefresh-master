@@ -1,2 +1,0 @@
-# CommonPullToRefresh-master
-CommonPullToRefresh-master
