@@ -27,6 +27,6 @@ Android widget with pull to refresh for all the views,and support loadMore for L
 *  如果要禁用下拉刷新，则更改`PtrHandler.checkCanDoRefresh`的返回实现即可
 
 
- 具体栗子可参考Demo
+
  
 
