@@ -23,7 +23,7 @@ import java.util.List;
 
 /**
  * listView with load more in swipeRefreshLayout
- * Created by Chanven on 2015-11-5.
+ * Created by hjj.
  */
 public class SwipeListViewActivity extends AppCompatActivity{
     private SwipeRefreshLayout mSryt;
